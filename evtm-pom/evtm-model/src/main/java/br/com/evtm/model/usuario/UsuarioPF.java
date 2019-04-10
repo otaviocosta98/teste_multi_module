@@ -1,4 +1,4 @@
-package br.com.evtm.model.cliente;
+package br.com.evtm.model.usuario;
 
 import java.io.Serializable;
 import java.time.LocalDate;
@@ -15,7 +15,7 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
-import br.com.evtm.model.cliente.enums.Perfil;
+import br.com.evtm.model.usuario.enums.Perfil;
 import lombok.Getter;
 import lombok.Setter;
 

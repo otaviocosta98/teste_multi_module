@@ -1,4 +1,4 @@
-package br.com.evtm.model.cliente.enums;
+package br.com.evtm.model.usuario.enums;
 
 public enum Perfil {
 
